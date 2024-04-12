@@ -1,0 +1,32 @@
+/* styles.css */
+
+* {
+    background-color: blueviolet;
+    color: pink;
+    text-align: justify;
+}
+
+#title {
+    font-size: 80px;
+    text-align: center;
+    color: pink;
+}
+
+.list {
+    color:pink;
+    background-color: #7d7878;
+    text-align: center;
+}
+
+.receta {
+    width: 800px;
+}
+
+.foto-comida {
+    width: 800px;
+}
+
+.title-2 {
+    font-size: 60px;
+    text-align: center;
+}
